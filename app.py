@@ -105,5 +105,5 @@ elif page == "ℹ️ About":
 
     Built using **Streamlit**, **scikit-learn**, and **joblib**.
     """)
-    st.markdown("---") # Add a separator
-    st.write("Built by **Bhavesh Bhati**") # Added credit
+    st.markdown("---") 
+    st.write("Built by **Bhavesh Bhati**") 
